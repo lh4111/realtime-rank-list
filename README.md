@@ -153,4 +153,4 @@ wilddogRef.child('rank').orderByChild('rank').limitToLast(10).on("value", functi
 ![](http://7xo2m9.com1.z0.glb.clouddn.com/image/1/f6/1b04f77d44cafcf34cf5b34b13736.png)
 
 有兴趣的同学可以玩一下，完全实时的哦。简单demo没有做过多优化，打开页面后会直接弹出微博授权页。
-[传送门](http://h5.wan2sha.com/80000320160503/)
+[传送门](http://h5.wan2sha.com/800003/20160503/)
